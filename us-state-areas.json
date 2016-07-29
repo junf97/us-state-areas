@@ -1,0 +1,302 @@
+[
+    {
+        "State":"Alaska",
+        "Rank":1,
+        "Sq Mi":665384.04,
+        "Sq Km":1723337
+    },
+    {
+        "State":"Texas",
+        "Rank":2,
+        "Sq Mi":268596.46,
+        "Sq Km":695662
+    },
+    {
+        "State":"California",
+        "Rank":3,
+        "Sq Mi":163694.74,
+        "Sq Km":423967
+    },
+    {
+        "State":"Montana",
+        "Rank":4,
+        "Sq Mi":147039.71,
+        "Sq Km":380831
+    },
+    {
+        "State":"New Mexico",
+        "Rank":5,
+        "Sq Mi":121590.3,
+        "Sq Km":314917
+    },
+    {
+        "State":"Arizona",
+        "Rank":6,
+        "Sq Mi":113990.3,
+        "Sq Km":295234
+    },
+    {
+        "State":"Nevada",
+        "Rank":7,
+        "Sq Mi":110571.82,
+        "Sq Km":286380
+    },
+    {
+        "State":"Colorado",
+        "Rank":8,
+        "Sq Mi":104093.67,
+        "Sq Km":269601
+    },
+    {
+        "State":"Oregon",
+        "Rank":9,
+        "Sq Mi":98378.54,
+        "Sq Km":254799
+    },
+    {
+        "State":"Wyoming",
+        "Rank":10,
+        "Sq Mi":97813.01,
+        "Sq Km":253335
+    },
+    {
+        "State":"Michigan",
+        "Rank":11,
+        "Sq Mi":96713.51,
+        "Sq Km":250487
+    },
+    {
+        "State":"Minnesota",
+        "Rank":12,
+        "Sq Mi":86935.83,
+        "Sq Km":225163
+    },
+    {
+        "State":"Utah",
+        "Rank":13,
+        "Sq Mi":84896.88,
+        "Sq Km":219882
+    },
+    {
+        "State":"Idaho",
+        "Rank":14,
+        "Sq Mi":83568.95,
+        "Sq Km":216443
+    },
+    {
+        "State":"Kansas",
+        "Rank":15,
+        "Sq Mi":82278.36,
+        "Sq Km":213100
+    },
+    {
+        "State":"Nebraska",
+        "Rank":16,
+        "Sq Mi":77347.81,
+        "Sq Km":200330
+    },
+    {
+        "State":"South Dakota",
+        "Rank":17,
+        "Sq Mi":77115.68,
+        "Sq Km":199729
+    },
+    {
+        "State":"Washington",
+        "Rank":18,
+        "Sq Mi":71297.95,
+        "Sq Km":184661
+    },
+    {
+        "State":"North Dakota",
+        "Rank":19,
+        "Sq Mi":70698.32,
+        "Sq Km":183108
+    },
+    {
+        "State":"Oklahoma",
+        "Rank":20,
+        "Sq Mi":69898.87,
+        "Sq Km":181037
+    },
+    {
+        "State":"Missouri",
+        "Rank":21,
+        "Sq Mi":69706.99,
+        "Sq Km":180540
+    },
+    {
+        "State":"Florida",
+        "Rank":22,
+        "Sq Mi":65757.7,
+        "Sq Km":170312
+    },
+    {
+        "State":"Wisconsin",
+        "Rank":23,
+        "Sq Mi":65496.38,
+        "Sq Km":169635
+    },
+    {
+        "State":"Georgia",
+        "Rank":24,
+        "Sq Mi":59425.15,
+        "Sq Km":153910
+    },
+    {
+        "State":"Illinois",
+        "Rank":25,
+        "Sq Mi":57913.55,
+        "Sq Km":149995
+    },
+    {
+        "State":"Iowa",
+        "Rank":26,
+        "Sq Mi":56272.81,
+        "Sq Km":145746
+    },
+    {
+        "State":"New York",
+        "Rank":27,
+        "Sq Mi":54554.98,
+        "Sq Km":141297
+    },
+    {
+        "State":"North Carolina",
+        "Rank":28,
+        "Sq Mi":53819.16,
+        "Sq Km":139391
+    },
+    {
+        "State":"Arkansas",
+        "Rank":29,
+        "Sq Mi":53178.55,
+        "Sq Km":137732
+    },
+    {
+        "State":"Alabama",
+        "Rank":30,
+        "Sq Mi":52420.07,
+        "Sq Km":135767
+    },
+    {
+        "State":"Louisiana",
+        "Rank":31,
+        "Sq Mi":52378.13,
+        "Sq Km":135659
+    },
+    {
+        "State":"Mississippi",
+        "Rank":32,
+        "Sq Mi":48431.78,
+        "Sq Km":125438
+    },
+    {
+        "State":"Pennsylvania",
+        "Rank":33,
+        "Sq Mi":46054.35,
+        "Sq Km":119280
+    },
+    {
+        "State":"Ohio",
+        "Rank":34,
+        "Sq Mi":44825.58,
+        "Sq Km":116098
+    },
+    {
+        "State":"Virginia",
+        "Rank":35,
+        "Sq Mi":42774.93,
+        "Sq Km":110787
+    },
+    {
+        "State":"Tennessee",
+        "Rank":36,
+        "Sq Mi":42144.25,
+        "Sq Km":109153
+    },
+    {
+        "State":"Kentucky",
+        "Rank":37,
+        "Sq Mi":40407.8,
+        "Sq Km":104656
+    },
+    {
+        "State":"Indiana",
+        "Rank":38,
+        "Sq Mi":36419.55,
+        "Sq Km":94326
+    },
+    {
+        "State":"Maine",
+        "Rank":39,
+        "Sq Mi":35379.74,
+        "Sq Km":91633
+    },
+    {
+        "State":"South Carolina",
+        "Rank":40,
+        "Sq Mi":32020.49,
+        "Sq Km":82933
+    },
+    {
+        "State":"West Virginia",
+        "Rank":41,
+        "Sq Mi":24230.04,
+        "Sq Km":62756
+    },
+    {
+        "State":"Maryland",
+        "Rank":42,
+        "Sq Mi":12405.93,
+        "Sq Km":32131
+    },
+    {
+        "State":"Hawaii",
+        "Rank":43,
+        "Sq Mi":10931.72,
+        "Sq Km":28313
+    },
+    {
+        "State":"Massachusetts",
+        "Rank":44,
+        "Sq Mi":10554.39,
+        "Sq Km":27336
+    },
+    {
+        "State":"Vermont",
+        "Rank":45,
+        "Sq Mi":9616.36,
+        "Sq Km":24906
+    },
+    {
+        "State":"New Hampshire",
+        "Rank":46,
+        "Sq Mi":9349.16,
+        "Sq Km":24214
+    },
+    {
+        "State":"New Jersey",
+        "Rank":47,
+        "Sq Mi":8722.58,
+        "Sq Km":22591
+    },
+    {
+        "State":"Connecticut",
+        "Rank":48,
+        "Sq Mi":5543.41,
+        "Sq Km":14357
+    },
+    {
+        "State":"Delaware",
+        "Rank":49,
+        "Sq Mi":2488.72,
+        "Sq Km":6446
+    },
+    {
+        "State":"Rhode Island",
+        "Rank":50,
+        "Sq Mi":1544.89,
+        "Sq Km":4001
+    }
+]
